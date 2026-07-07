@@ -1,6 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import SingleItem from "./SingleItem";
 import customFetch from "./utils";
+import { toast } from "react-toastify";
 
 // Main codebase
 const Items = () => {
