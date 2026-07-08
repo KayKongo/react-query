@@ -1,5 +1,4 @@
 import { ToastContainer } from "react-toastify";
-import { nanoid } from "nanoid";
 import Form from "./Form";
 import Items from "./Items";
 
